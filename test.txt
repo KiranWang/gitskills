@@ -3,3 +3,5 @@ Create a new branch is quick and simple
 git is a free sofeware
 today is 2019.8.30
 stash 2
+test git stash 
+stash 1
